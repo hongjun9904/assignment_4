@@ -1,28 +1,22 @@
-# Assignment 2 - Web Application Development
+# Assignment 4 - Web Application Development
 
 Database를 사용하여 도서관 관리 Web Application을 개발합니다.
 
-1. PDF로 제공된 Assignment 2의 GitHub Classroom repository 초대 링크를 통해 자신의 repository를 생성합니다.
-2. Repository의 이름을 assignment2-[본인 학번] 으로 변경합니다.
-3. 해당 repository를 clone 받습니다.
-4. README.md에 본인의 이름과 학번을 기입합니다.
-5. 기능 요구사항에 맞춰 개발을 진행합니다.
+1. 본 Repository에서 제공하는 스켈레톤 코드와 아래의 기능 요구사항을 참고하여 과제를 진행합니다.
+2. 아래의 기능 요구사항에 맞춰 개발을 진행합니다.
    1. 주어진 스켈레톤 코드를 기반으로 개발할 경우 `TODO`를 프로젝트 내 검색어로 활용해 구현이 필요한 부분을 찾아 구현합니다.
-   2. 본인이 직접 개발할 경우 README.md를 제외한 모든 파일을 지운 뒤 깔끔한 환경을 만든 뒤 과제를 진행합니다.
-
-## 본인의 이름과 학번을 적어주세요
-```
-학번:
-이름:
-```
+   2. 원하는 언어와 프레임워크를 사용하여 직접 구현할 수도 있으며, 이 경우에도 동일한 기능 요구사항을 충족해야 합니다.
 
 ## 제출 기한
-- <b style='background-color: #ffdce0'>2025년 10월 23일 (목) 23시 59분</b>
-- <b style='background-color: #ffdce0'>기한 이후 제출 시 3시간 마다 전체 득점에서 5%씩 감점합니다.</b>
-- <b>기한 이후에는 push가 불가능 하기 때문에 다음 메일로 폴더 전체를 압축하여 제출하여 주세요.</b>
-  ```
-  huan99@hanyang.ac.kr
-  ```
+- <b style='background-color: #ffdce0'>2026년 11월 10일 (화) 23시 59분</b>
+
+## 제출 방식
+
+전체 소스 코드와 보고서(PDF)를 하나의 ZIP 파일로 압축하여 LMS 과제 제출란에 제출합니다.
+
+파일명: assignment4_학번_이름.zip
+
+실행에 필요한 소스 코드, DB 초기화 SQL 또는 스크립트, 환경설정 예시 파일을 포함합니다.
 
 ## 실행 방법
 
@@ -101,5 +95,6 @@ Database를 사용하여 도서관 관리 Web Application을 개발합니다.
 
 ### 추가 기능
 
-- [ ] ...
+- [ ] 위의 필수 기능 외에, 도서관 관리 서비스에 유용하다고 생각하는 기능을 본인이 구상하여 최소 1개 이상 구현해야 한다.
+      보고서에 추가 기능의 목적과 동작 방식을 설명하고, 시연 영상에 해당 기능의 실행 과정을 포함해야 한다.
 ---
